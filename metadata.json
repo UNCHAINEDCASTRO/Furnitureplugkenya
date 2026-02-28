@@ -1,0 +1,5 @@
+{
+  "name": "SecureSearch Pro",
+  "description": "A secure search application with predictive suggestions and backend-proxied Google Sheets integration.",
+  "requestFramePermissions": []
+}
